@@ -1,4 +1,1 @@
-# Vaishnavi
-This is my first Git repository
-<br>
-Author - Adla Vaishnavi
+SVN is centarlized version control system
